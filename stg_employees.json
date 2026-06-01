@@ -1,0 +1,538 @@
+[
+  {
+    "Employee_ID": "E001",
+    "Employee_Name": "Thomas Johnson",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "8/3/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E002",
+    "Employee_Name": "William Thomas",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "10/16/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E003",
+    "Employee_Name": "James Black",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "11/2/2018",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E004",
+    "Employee_Name": "James Tay",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "10/14/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E005",
+    "Employee_Name": "William Brown",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "1/15/2018",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E006",
+    "Employee_Name": "Susan Black",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "6/7/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E007",
+    "Employee_Name": "Jennifer Black",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "3/21/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E008",
+    "Employee_Name": "Richard Martin",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "3/8/2017",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E009",
+    "Employee_Name": "Patricia Taylor",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "2/22/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E010",
+    "Employee_Name": "Elizabeth Jackson",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "1/7/2023",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E011",
+    "Employee_Name": "Elizabeth Taylor",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "7/6/2018",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E012",
+    "Employee_Name": "Linda Jackson",
+    "Role": "Cleaner",
+    "Shift": "Morning",
+    "Hire_Date": "1/19/2020",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E013",
+    "Employee_Name": "Patricia Johnson",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "9/22/2022",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E014",
+    "Employee_Name": "Susan Smith",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "12/12/2019",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E015",
+    "Employee_Name": "David Jackson",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "4/8/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E016",
+    "Employee_Name": "Joseph Smith",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "3/5/2021",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E017",
+    "Employee_Name": "Charles Brown",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "1/11/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E018",
+    "Employee_Name": "Sarah Kay",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "6/3/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E019",
+    "Employee_Name": "Jennifer Jackson",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "8/11/2023",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E020",
+    "Employee_Name": "James Thomas",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "2/6/2022",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E021",
+    "Employee_Name": "Jessica Harris",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "10/18/2022",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E022",
+    "Employee_Name": "Patricia Kay",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "2/13/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E023",
+    "Employee_Name": "Jessica Johnson",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "6/26/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E024",
+    "Employee_Name": "Mary Harris",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "12/10/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E025",
+    "Employee_Name": "Susan Jackson",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "6/6/2022",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E026",
+    "Employee_Name": "Nancy White",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "9/29/2023",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E027",
+    "Employee_Name": "Patricia Black",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "7/16/2020",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E028",
+    "Employee_Name": "Jennifer Smith",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "1/11/2019",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E029",
+    "Employee_Name": "Thomas Harris",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "5/17/2018",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E030",
+    "Employee_Name": "Karen Pitt",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "7/31/2017",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E031",
+    "Employee_Name": "Mary Taylor",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "6/8/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E032",
+    "Employee_Name": "Karen Anderson",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "8/15/2022",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E033",
+    "Employee_Name": "James Jackson",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "5/21/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E034",
+    "Employee_Name": "Patricia Pitt",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "8/27/2020",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E035",
+    "Employee_Name": "John Anderson",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "3/23/2019",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E036",
+    "Employee_Name": "Susan White",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "5/25/2020",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E037",
+    "Employee_Name": "Elizabeth Martin",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "2/27/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E038",
+    "Employee_Name": "Jessica Thomas",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "11/21/2021",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E039",
+    "Employee_Name": "James Smith",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "2/19/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E040",
+    "Employee_Name": "David Anderson",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "4/8/2020",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E041",
+    "Employee_Name": "Jessica Smith",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "5/19/2019",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E042",
+    "Employee_Name": "Linda Black",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "7/11/2019",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E043",
+    "Employee_Name": "Robert White",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "5/17/2021",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E044",
+    "Employee_Name": "Michael Brown",
+    "Role": "Cleaner",
+    "Shift": "Evening",
+    "Hire_Date": "5/3/2022",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E045",
+    "Employee_Name": "Patricia Stuart",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "3/28/2020",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E046",
+    "Employee_Name": "William Taylor",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "2/7/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E047",
+    "Employee_Name": "John Smith",
+    "Role": "Cleaner",
+    "Shift": "Morning",
+    "Hire_Date": "7/16/2021",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E048",
+    "Employee_Name": "William Smith",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "1/5/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E049",
+    "Employee_Name": "James Anderson",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "1/2/2018",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E050",
+    "Employee_Name": "Joseph Black",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "11/16/2020",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E051",
+    "Employee_Name": "Joseph Anderson",
+    "Role": "Cleaner",
+    "Shift": "Morning",
+    "Hire_Date": "3/28/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E052",
+    "Employee_Name": "Sarah Anderson",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "10/13/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E053",
+    "Employee_Name": "William Jackson",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "2/27/2021",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E054",
+    "Employee_Name": "Robert Jackson",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "4/19/2020",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E055",
+    "Employee_Name": "Richard Thomas",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "2/25/2019",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E056",
+    "Employee_Name": "Sarah Brown",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "3/15/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E057",
+    "Employee_Name": "David Taylor",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "5/8/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E058",
+    "Employee_Name": "Nancy Johnson",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "7/13/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E059",
+    "Employee_Name": "Robert Martin",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "8/10/2021",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E060",
+    "Employee_Name": "Michael Thomas",
+    "Role": "Supervisor",
+    "Shift": "Night",
+    "Hire_Date": "1/1/2023",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E061",
+    "Employee_Name": "Jennifer Thomas",
+    "Role": "Cleaner",
+    "Shift": "Morning",
+    "Hire_Date": "12/12/2021",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E062",
+    "Employee_Name": "Linda Taylor",
+    "Role": "Cleaner",
+    "Shift": "Morning",
+    "Hire_Date": "1/2/2017",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E063",
+    "Employee_Name": "Robert Brown",
+    "Role": "Supervisor",
+    "Shift": "Evening",
+    "Hire_Date": "6/16/2018",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E064",
+    "Employee_Name": "Charles Johnson",
+    "Role": "Cleaner",
+    "Shift": "Morning",
+    "Hire_Date": "5/17/2021",
+    "Is_Active": "N"
+  },
+  {
+    "Employee_ID": "E065",
+    "Employee_Name": "Sarah Thomas",
+    "Role": "Cleaner",
+    "Shift": "Night",
+    "Hire_Date": "9/14/2023",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E066",
+    "Employee_Name": "Linda Johnson",
+    "Role": "Cleaner",
+    "Shift": "Morning",
+    "Hire_Date": "7/4/2017",
+    "Is_Active": "Y"
+  },
+  {
+    "Employee_ID": "E067",
+    "Employee_Name": "Karen Jackson",
+    "Role": "Supervisor",
+    "Shift": "Morning",
+    "Hire_Date": "6/30/2021",
+    "Is_Active": "Y"
+  }
+]
