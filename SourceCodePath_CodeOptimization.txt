@@ -1,0 +1,34 @@
+SELECT dod.order_month + '-' + dod.order_year Month_Year,
+ SUM(fs.sales) Total_sales,
+ SUM(fs.profit) Total_profit,
+ SUM(CASE
+  WHEN dpc.category = 'Furniture' THEN fs.sales
+  ELSE 0
+ END) Furniture_Sales,
+ SUM(CASE
+  WHEN dpc.category = 'Furniture' THEN fs.profit
+  ELSE 0
+ END) Furniture_Profit,
+ SUM(CASE
+  WHEN dpc.category = 'Clothing' THEN fs.sales
+  ELSE 0
+ END) Clothing_Sales,
+ SUM(CASE
+  WHEN dpc.category = 'Clothing' THEN fs.profit
+  ELSE 0
+ END) Clothing_Profit,
+ SUM(CASE
+  WHEN dpc.category = 'Mobile' THEN fs.sales
+  ELSE 0
+ END) Phone_Sales,
+ SUM(CASE
+  WHEN dpc.category = 'Mobile' THEN fs.profit
+  ELSE 0
+ END) Phone_Profit
+FROM fact_sales fs
+ INNER JOIN dim_product_category dpc
+ ON fs.product_category_key = dpc.product_category_key
+ INNER JOIN dim_order_date dod
+ ON fs.order_date_key = dod.order_date_key
+WHERE dod.order_date BETWEEN '2022-01-01' AND CONVERT(DATE, GETDATE())
+
